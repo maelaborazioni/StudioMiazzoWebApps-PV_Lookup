@@ -1,0 +1,16 @@
+dataSource:"db:/ma_richieste/tab_richiestedettaglio",
+extendsID:"-1",
+items:[
+{
+height:480,
+partType:5,
+typeid:19,
+uuid:"0964EDE1-C627-4F06-87C1-EEF1809F55AF"
+}
+],
+name:"pv_lkp_richiestedettaglio",
+showInMenu:true,
+size:"640,480",
+styleName:"leaf_style",
+typeid:3,
+uuid:"4EA4A669-1077-43C3-B181-BBD644DDF429"

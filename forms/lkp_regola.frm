@@ -1,0 +1,16 @@
+dataSource:"db:/ma_richieste/tab_richiestedettagliocondizioni",
+extendsID:"-1",
+items:[
+{
+height:480,
+partType:5,
+typeid:19,
+uuid:"4DCD6D8A-DDAC-4C9B-8EA0-42359C01DBF9"
+}
+],
+name:"lkp_regola",
+showInMenu:true,
+size:"640,480",
+styleName:"leaf_style",
+typeid:3,
+uuid:"02606F70-88EC-4AB7-BED5-05AF1628044A"

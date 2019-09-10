@@ -1,0 +1,16 @@
+customProperties:"formComponent:false",
+dataSource:"db:/ma_richieste/tab_welfare_tracciati",
+encapsulation:60,
+items:[
+{
+height:480,
+partType:5,
+typeid:19,
+uuid:"3531BEF1-6A6F-42E3-9E63-7617B40EDF69"
+}
+],
+name:"lkp_tracciati",
+showInMenu:true,
+styleName:"leaf_style",
+typeid:3,
+uuid:"8C62AAE5-84CF-4B5A-9974-FF0A06B252EF"

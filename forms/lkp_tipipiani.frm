@@ -1,0 +1,16 @@
+customProperties:"formComponent:false",
+dataSource:"db:/ma_richieste/tab_welfare_tipipiani",
+encapsulation:60,
+items:[
+{
+height:480,
+partType:5,
+typeid:19,
+uuid:"8EDAB9C5-A831-4E70-91A8-A7AF591252DB"
+}
+],
+name:"lkp_tipipiani",
+showInMenu:true,
+styleName:"leaf_style",
+typeid:3,
+uuid:"169C069A-E704-487A-81A5-FAE9B448CACF"

@@ -1,0 +1,16 @@
+customProperties:"formComponent:false",
+dataSource:"db:/ma_richieste/tab_welfare_dittetracciati",
+encapsulation:60,
+items:[
+{
+height:480,
+partType:5,
+typeid:19,
+uuid:"5A3D5D24-A4B8-4830-A0F2-D22390E71A95"
+}
+],
+name:"lkp_dittetracciati",
+showInMenu:true,
+styleName:"leaf_style",
+typeid:3,
+uuid:"FF0A1647-8A42-4761-B7AA-9B6831E09A4B"
